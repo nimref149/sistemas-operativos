@@ -1,0 +1,28 @@
+	COMANDOS
+
+man = manual de ayuda
+info man/man info = explicacion de como usar el manual
+mkdir nombre_Carpeta
+echo "dentro del archivo" >> nombreArchivo.txt = crea un archivo de texto escrito
+ls = muestra lista detallada de que hay
+more/less/cat "nombre.txt" = ver el contenido del archivo (BUSCAR EN QUE SE DIFEREN)
+less el mejor de los 3 al momento de mostrar contenido
+pwd = indica donde estoy
+history = historial de comandos
+>> concatena, pero > pisa lo anterior y escribe
+cd = chgange directory(abreviado), me deja en el home
+sudo su - = me hace super usuario
+
+-------------------------------------------------------------------------------------
+
+  CLASE 2
+
+unix info
+bsd info
+quien es richard stallman
+gnu info
+minix 
+shell
+kernel es el encargado de cuanta memoria tenes y donde esta. y mas
+	es el encargado de la iteraccion entre software y hardware
+ver si tengo disco de estado solido
